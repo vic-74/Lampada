@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+}
+
+input{
+  background-color: black;
+  color: aqua;
+  font-size: 1.5rem;
+  border: 15px;
+}
+
+input{
+  color: rgb(9, 9, 9);
+  background-color: rgb(255, 255, 255);
+}
